@@ -1,0 +1,10 @@
+E:\Projects\WinForm.Threading\WinForm.Threading\bin\Debug\WinForm.Threading.exe.config
+E:\Projects\WinForm.Threading\WinForm.Threading\bin\Debug\WinForm.Threading.exe
+E:\Projects\WinForm.Threading\WinForm.Threading\bin\Debug\WinForm.Threading.pdb
+E:\Projects\WinForm.Threading\WinForm.Threading\obj\Debug\WinForm.Threading.Form1.resources
+E:\Projects\WinForm.Threading\WinForm.Threading\obj\Debug\WinForm.Threading.Properties.Resources.resources
+E:\Projects\WinForm.Threading\WinForm.Threading\obj\Debug\WinForm.Threading.csproj.GenerateResource.Cache
+E:\Projects\WinForm.Threading\WinForm.Threading\obj\Debug\WinForm.Threading.csproj.CoreCompileInputs.cache
+E:\Projects\WinForm.Threading\WinForm.Threading\obj\Debug\WinForm.Threading.exe
+E:\Projects\WinForm.Threading\WinForm.Threading\obj\Debug\WinForm.Threading.pdb
+E:\Projects\WinForm.Threading\WinForm.Threading\obj\Debug\WinForm.Threading.csproj.AssemblyReference.cache
